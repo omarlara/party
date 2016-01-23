@@ -1,0 +1,10 @@
+{
+    "name": "fiesta",
+    "version": "0.0.1",
+    "devDependencies": {
+        "grunt": "0.4.5",
+        "grunt-contrib-compress": "^0.14.0",
+        "grunt-contrib-watch": "~0.6.1",
+        "grunt-sass": "^1.1.0"
+    }
+}
